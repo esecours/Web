@@ -1,0 +1,6 @@
+{
+  "name": "E-SECOURS - Plateforme Mobile d'Urgence",
+  "description": "Plateforme mobile d'assistance, d'orientation et de prise en charge rapide en situation d'urgence au Bénin et en Afrique de l'Ouest.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

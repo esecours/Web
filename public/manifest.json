@@ -1,0 +1,29 @@
+{
+  "short_name": "E-Secours",
+  "name": "E-SECOURS - Plateforme Mobile d'Urgence",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://esecours.contactesecours.workers.dev",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#dc2626",
+  "background_color": "#0f172a",
+  "description": "Application Web Progressive (PWA) E-Secours Bénin pour les urgences médicales et secours.",
+  "categories": ["medical", "health", "utilities"]
+}
